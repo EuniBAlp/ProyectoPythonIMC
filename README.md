@@ -1,2 +1,4 @@
 # ProyectoPythonIMC
 Mi primer proyecto de Python creando una Calculadora de Indice de Masa Corporal.
+Detallare como fue que hice el programa, comence con la recolección de datos: nombre, apellido paterno, apellido materno, edad, peso y estatura, después con el cálculo de IMC y luego continue con la impresión de datos personales e imc. Después de eso tenía la duda de como hacer que los datos fueran válidos ya que si en algun dato que pediamos por decir nombre y apellidos entraban números pues no era correcto, así que comence a hacer válidaciones, después de meter las válidaciones y comprobar que todo saliera bien o si salia mal que justo arrojara que algo había mal.
+El bootcamp hasta ahora me ha gustado, me ha parecido fácil de comprender tanto con el material proporcionado como con las reuniones donde podemos ver dudas. Agradezco la atención.
